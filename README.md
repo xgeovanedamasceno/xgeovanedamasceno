@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xgeovanedamasceno
-- 👀 I’m interested in UI / UX Design and web development
-- 🌱 I’m currently learning UI, Design, UX Design, HTML and CSS
-- 💞️ I’m looking to collaborate on Product Design
+- 👀 I’m interested in UI / UX Design and fron-end.
+- 🌱 I’m currently learning HTML, CSS e JS.
+- 💞️ I’m looking to collaborate on front end development
 - 📫 How to reach me ? xgeovanedamasceno@outlook.com
 
 <!---
