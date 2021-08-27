@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xgeovanedamasceno
-- 👀 I’m interested in Front End Technologies.
-- 🌱 I’m currently learning HTML, CSS e JS.
-- 💞️ I’m looking to collaborate on front end development
+- 👀 I’m interested in Computer Science, Programing and UX.
+- 🌱 I’m currently learning Front End and Back End Technologies.
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me ? xgeovanedamasceno@outlook.com
 
 <!---
