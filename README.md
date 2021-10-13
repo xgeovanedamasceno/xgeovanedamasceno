@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xgeovanedamasceno
-- 👀 I’m interested in Computer Science, Programing and UX.
+- 👀 I’m interested in Computer Science, Programming.
 - 🌱 I’m currently learning Front End and Back End Technologies.
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me ? xgeovanedamasceno@outlook.com
